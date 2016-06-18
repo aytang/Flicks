@@ -16,19 +16,19 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-- [x ] User sees an error message when there's a networking error.
+- [x] User sees an error message when there's a networking error.
 - [ ] Movies are displayed using a CollectionView instead of a TableView.
 - [ ] User can search for a movie.
 - [x] All images fade in as they are loading.
 - [x] User can view the large movie poster by tapping on a cell.
-- [ ] For the large poster, load the low resolution image first and then switch to the high resolution image when complete.
+- [x] For the large poster, load the low resolution image first and then switch to the high resolution image when complete.
 - [x] Customize the selection effect of the cell.
 - [x] Customize the navigation bar.
 - [x] Customize the UI.
 
 The following **additional** features are implemented:
 
-- [x] Users can see the rating of a movie
+- [x] Users can see the ratings of a movie
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
